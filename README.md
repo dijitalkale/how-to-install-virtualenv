@@ -1,4 +1,4 @@
-Virtualenv Ubuntu işletim sistemine yükleme yüklem
+Virtualenv Ubuntu işletim sistemine yükleme
 
 # How to install virtualenv:
 
